@@ -1,4 +1,4 @@
-# 🌍 International Banking Analytics Dashboard (Power BI)
+# 🌍 International Banking Analytics Portfolio Project 
 
 An end-to-end **Banking Analytics Project** built using **Power BI**, **Python**, **SQL** focused on analyzing loans, deposits, customer segmentation, and revenue streams for an international bank.
 
